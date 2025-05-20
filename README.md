@@ -1,4 +1,4 @@
-# -Plant-Leaf-Disease-Detection-and-Classification-using-Advanced-LBP-and-Grad-CAM
+# Plant-Leaf-Disease-Detection-and-Classification-using-Advanced-LBP-and-Grad-CAM
 <!DOCTYPE html>
 <html lang="en">
 <head>
